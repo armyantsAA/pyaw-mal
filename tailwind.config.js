@@ -11,6 +11,7 @@ module.exports = {
         tertiary: "#F1E0AC",
         chat1: "#26272D",
         chat2: "#BDD2B6",
+        divider: "#37393C",
       },
     },
   },
