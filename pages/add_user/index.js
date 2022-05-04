@@ -21,7 +21,7 @@ export default function index() {
             className="h-full w-full bg-[#36373F] rounded-l-lg indent-5 text-white focus:outline-none active:outline-none" 
             required
           />
-          <button type="submit" style={{ backgroundColor: '#36373F' }} className="h-full px-4 rounded-r-lg">
+          <button type="submit" className="bg-[#36373F] h-full px-4 rounded-r-lg">
             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" className="h-7 w-7" style={{filter: 'invert(100%) sepia(97%) saturate(13%) hue-rotate(237deg) brightness(104%) contrast(104%)'}} preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="m21 21l-4.486-4.494M19 10.5a8.5 8.5 0 1 1-17 0a8.5 8.5 0 0 1 17 0Z"/></svg>
           </button>
         </div>
